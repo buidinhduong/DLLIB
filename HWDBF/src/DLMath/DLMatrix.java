@@ -46,8 +46,8 @@ public class DLMatrix {
     }
 
     public static int[] getRowVector(int[][] maxtrix, int row) {
-        int[] vector = new int[maxtrix.length];
-        for (int i = 0; i < maxtrix.length; i++)//all rows 
+        int[] vector = new int[maxtrix[0].length];
+        for (int i = 0; i < maxtrix[0].length; i++)//all rows 
         {
             vector[i] = maxtrix[row][i];
         }
@@ -55,7 +55,7 @@ public class DLMatrix {
     }
 
     public static int[] getColVector(int[][] maxtrix, int col) {
-        int[] vector = new int[maxtrix[0].length];
+        int[] vector = new int[maxtrix.length];
         for (int row = 0; row < maxtrix.length; row++)//all rows 
         {
             vector[row] = maxtrix[row][col];
