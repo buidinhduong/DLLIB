@@ -15,7 +15,11 @@ public class DLMatrix {
         for (int i = 0; i < maxtrix.length; i++) {//all rows
             System.out.println("");
             for (int j = 0; j < maxtrix[0].length; j++) {
-                System.out.print("[" + maxtrix[i][j] + "]");
+                if(j==0)
+                System.out.print("[");
+                else if(j==maxtrix[0].length-1)
+                System.out.print("]");
+                else System.out.print(" "+maxtrix[i][j]);
             }
         }
     }

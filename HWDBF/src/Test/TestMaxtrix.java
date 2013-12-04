@@ -20,7 +20,7 @@ public class TestMaxtrix {
      */
     public static void main(String[] args) {
         try {
-            int maxtrixRow = 3;
+            int maxtrixRow = 1;
             int maxtrixCol = 4;
             int maxtrix1[][] = new int[maxtrixRow][maxtrixCol];
             int maxtrix2[][] = new int[maxtrixRow][maxtrixCol];
