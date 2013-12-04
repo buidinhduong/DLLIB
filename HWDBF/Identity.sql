@@ -1,0 +1,19 @@
+USE [Northwind]
+SELECT (SCHEMA_NAME(schema_id) + '.' + name) as SchemaTable
+FROM sys.tables
+WHERE [name] IN
+(
+SELECT OBJECT_NAME(OBJECT_ID) AS TABLENAME
+FROM SYS.IDENTITY_COLUMNS
+)
+ORDER BY SchemaTable;
+GO
+------------
+SELECT   OBJECT_NAME(OBJECT_ID) AS TABLENAME, 
+         NAME AS COLUMNNAME, 
+         SEED_VALUE, 
+         INCREMENT_VALUE, 
+         LAST_VALUE, 
+         IS_NOT_FOR_REPLICATION 
+FROM     SYS.IDENTITY_COLUMNS 
+ORDER BY 1 

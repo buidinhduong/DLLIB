@@ -1,0 +1,28 @@
+10
+
+dir
+0
+https://192.168.1.2/svn/iphone_duong/MyMoney/Mobile%20Software/HWDBM/HWDBF
+https://192.168.1.2/svn/iphone_duong
+add
+
+
+
+
+
+has-props
+has-prop-mods
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+75db6d77-1c86-814a-b514-53f545d94eb6
+
