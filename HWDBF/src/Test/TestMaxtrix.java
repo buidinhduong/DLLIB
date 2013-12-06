@@ -39,9 +39,9 @@ public class TestMaxtrix {
                     maxtrix3[i][j] = rand.nextInt(5) + 1;
                 }
             }
-            DLMatrix.displayMaxtrix(maxtrix1);
-            DLMatrix.displayMaxtrix(maxtrix3);
-            DLMatrix.displayMaxtrix(DLMatrix.multiplyMaxtrix(maxtrix1, maxtrix3));
+            DLMatrix.displayMatrix(maxtrix1);
+            DLMatrix.displayMatrix(maxtrix3);
+            DLMatrix.displayMatrix(DLMatrix.multiplyMatrix(maxtrix1, maxtrix3));
         } catch (Exception ex) {
             Logger.getLogger(TestMaxtrix.class.getName()).log(Level.SEVERE, null, ex);
         }

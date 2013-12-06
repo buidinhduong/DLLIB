@@ -10,7 +10,7 @@ package DLMath;
  * @author buiduong
  */
 public class DLMatrix {
-    public static void displayMaxtrix(int[][] maxtrix) {
+    public static void displayMatrix(int[][] maxtrix) {
         System.out.print("\n=====Maxtrix....");
         for (int i = 0; i < maxtrix.length; i++) {//all rows
             System.out.println("");
@@ -24,7 +24,7 @@ public class DLMatrix {
         }
     }
 
-    public static int[][] multiplyMaxtrix(int[][] maxtrix1, int[][] maxtrix2) throws Exception {
+    public static int[][] multiplyMatrix(int[][] maxtrix1, int[][] maxtrix2) throws Exception {
         System.out.println("\n---start----");
 
         //if M*N x N*P => M*P maxtrix
@@ -49,20 +49,20 @@ public class DLMatrix {
         return resutlMaxtrix;
     }
 
-    public static int[] getRowVector(int[][] maxtrix, int row) {
-        int[] vector = new int[maxtrix[0].length];
-        for (int i = 0; i < maxtrix[0].length; i++)//all rows 
+    public static int[] getRowVector(int[][] matrix, int row) {
+        int[] vector = new int[matrix[0].length];
+        for (int i = 0; i < matrix[0].length; i++)//all rows 
         {
-            vector[i] = maxtrix[row][i];
+            vector[i] = matrix[row][i];
         }
         return vector;
     }
 
-    public static int[] getColVector(int[][] maxtrix, int col) {
-        int[] vector = new int[maxtrix.length];
-        for (int row = 0; row < maxtrix.length; row++)//all rows 
+    public static int[] getColVector(int[][] matrix, int col) {
+        int[] vector = new int[matrix.length];
+        for (int row = 0; row < matrix.length; row++)//all rows 
         {
-            vector[row] = maxtrix[row][col];
+            vector[row] = matrix[row][col];
         }
         return vector;
     }
