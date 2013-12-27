@@ -20,11 +20,11 @@ public class TestMaxtrix {
      */
     public static void main(String[] args) {
         try {
-            int maxtrixRow = 1;
-            int maxtrixCol = 4;
+            int maxtrixRow = 3;
+            int maxtrixCol = 3;
             int maxtrix1[][] = new int[maxtrixRow][maxtrixCol];
             int maxtrix2[][] = new int[maxtrixRow][maxtrixCol];
-            int maxtrix3[][] = new int[4][5];
+            int maxtrix3[][] = new int[3][1];
             System.out.print("row "+maxtrix3.length+" col"+maxtrix3[0].length);
             Random rand = new Random();
             //maxtrix 1/2
