@@ -4,7 +4,10 @@
  */
 package DLDBM;
 
+///import java.sql.Connection;
+
 import java.sql.Connection;
+
 
 /**
  *
@@ -188,7 +191,7 @@ public class DLEnvironmentSetting {
      * @return the MyConnection
      */
     public Connection getMyConnection() {
-        return MyConnection;
+        return null;
     }
 
     /**
