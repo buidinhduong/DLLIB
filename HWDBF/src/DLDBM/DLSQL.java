@@ -64,7 +64,6 @@ public class DLSQL {
             return sql;
 
         } catch (IllegalAccessException ex) {
-
             new DLLogging(HW).WriteError(ex.getMessage(), DLSQL.class.getName(), "GetInsertCommand()");
             throw ex;
         } catch (InvocationTargetException ex) {
@@ -74,7 +73,7 @@ public class DLSQL {
         } catch (SecurityException ex) {
             new DLLogging(HW).WriteError(ex.getMessage(), DLSQL.class.getName(), "GetInsertCommand()");
         }
-        return "";
+        return null;
     }
 
     public String getInsertSQL(Object ThisO, boolean IdentityColumn) throws IllegalAccessException {

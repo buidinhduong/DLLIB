@@ -3,29 +3,25 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-
 package Test;
 
-import DLDBM.DLEnvironmentSetting;
-import DLDBM.DLSQL;
-import java.util.logging.Level;
-import java.util.logging.Logger;
+import DLMath.DLFibonaci;
+import java.util.Date;
 
 /**
  *
  * @author buiduong
  */
 public class TestSQL {
-    public static void main(String[] arg)
-    {
-        DLEnvironmentSetting e=new DLEnvironmentSetting();
+
+    public static void main(String[] arg) {
+            int numberth=45;
+            System.out.println(" ,Number Nb_Fibo:" + DLFibonaci.Nb_Fibo(numberth));
+            double startTime = new Date().getTime();
+            int number = DLFibonaci.Nb_Fibo_R(numberth);
+            double endTime = new Date().getTime();
+            System.out.printf("\n Number :"+number+"  Time in Nb_Fibo R: %.00f complexity"+1.68*numberth, endTime - startTime);
+            
         
-        DLSQL hSQl=new DLSQL(e);
-        Student a=new Student();
-        try {
-            System.out.print( hSQl.getInsertSQL(a));
-        } catch (IllegalAccessException ex) {
-            Logger.getLogger(TestSQL.class.getName()).log(Level.SEVERE, null, ex);
-        }
     }
 }
