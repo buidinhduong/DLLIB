@@ -1,0 +1,33 @@
+Student-Friend-Student:1.0
+Student-Friend-Student Count.Few:1.0
+Employee-Friend-Student:1.0
+Employee-Friend-Student Age.Middle:1.0
+Employee-Friend-Student Age.Middle Count.VeryFew:1.0
+Employee-Friend-Student Count.VeryFew:1.0
+Employee-Friend-Employee:1.0
+Employee-Friend-Employee Age.Middle:1.0
+Employee-RENT-Apartment:2.0
+Employee-RENT-Apartment Count.Most:1.0
+Employee-RENT-Apartment Count.Most Age.Young:1.0
+Employee-RENT-Apartment Age.Young:1.0
+Employee-Probationary-Company:2.0
+Employee-Probationary-Company Count.Few:1.0
+Employee-Probationary-Company Count.Few Age.Young:1.0
+Employee-Probationary-Company Age.Young:2.0
+Employee-OWN-House:2.0
+Employee-OWN-House Age.Middle:2.0
+Employee-OWN-House Age.Middle Count.VeryFew:1.0
+Employee-OWN-House Count.VeryFew:1.0
+Count.VeryFew:2.0
+Count.VeryFew Age.Middle:2.0
+Student-RENT-Apartment:3.0
+Student-RENT-Apartment Count.Most:1.0
+Student-RENT-Apartment Count.Most Age.Young:1.0
+Student-RENT-Apartment Age.Young:2.0
+Count.Most:3.6
+Count.Most Student-RENT-Apartment:1.1
+Count.Most Age.Young:3.1
+Count.Few:3.36
+Count.Few Age.Young:2.03
+Age.Middle:4.0
+Age.Young:8.01

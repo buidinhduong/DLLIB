@@ -1,0 +1,13 @@
+Schema Age COUNT
+Employee-OWN-House 48 10
+Employee-Friend-Student 38 10
+Employee-RENT-Apartment 29 80
+Employee-Friend-Employee 48 40
+Student-RENT-Apartment 29 80
+Student-Friend-Student 23 30
+Employee-Probationary-Company 28 30
+Employee-RENT-Apartment 23 40
+Student-RENT-Apartment 23 95
+Student-RENT-Apartment 26 83
+Employee-OWN-House 38 90
+Employee-Probationary-Company 30 34
