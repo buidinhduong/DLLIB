@@ -5,8 +5,6 @@
  */
 package DLMath;
 
-import java.util.Date;
-
 /**
  *
  * @author buiduong
@@ -14,15 +12,12 @@ import java.util.Date;
 public class DLFibonaci {
 
     public static int Nb_Fibo(int n) {
-        double startTime = new Date().getTime();
         float a = 1;
         float b = 1;
         for (int i = 3; i <= n; i++) {
             b = a + b;
             a = b - a;
         }
-        double endTime = new Date().getTime();
-        System.out.printf("\n Computation time in Nb_Fibo:%.00f complexity: "+(n-3) ,endTime - startTime);
         return (int)b;
     }
 

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+    Document   : ServerConfig.xml
+    Created on : March 16, 2011, 4:06 AM
+    Author     : SONY
+    Description:
+        Purpose of the document follows.
+-->
+<Setting>
+    <MaxClient>1200</MaxClient>
+    <RoomPerson>2</RoomPerson>
+</Setting>

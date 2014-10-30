@@ -74,4 +74,11 @@ public class DLMatrix {
         }
         return result;
     }
+    public static double distanceEuclidean(int vector1[], int vector2[]) {
+        double result = 0;
+        for (int i = 0; i < vector1.length; i++) {
+            result += (vector1[i] - vector2[i])*(vector1[i] - vector2[i]);
+        }
+        return Math.sqrt(result);
+    }
 }

@@ -1,0 +1,3 @@
+Chosing Actors:
+	+Interact
+	+Affected/will be affected

@@ -16,12 +16,17 @@ public class TestSQL {
 
     public static void main(String[] arg) {
             int numberth=45;
-            System.out.println(" ,Number Nb_Fibo:" + DLFibonaci.Nb_Fibo(numberth));
+            double startTime1 = new Date().getTime();
+            System.out.println("\n===============Nb_Fibo======");
+            System.out.println("Number at:["+numberth+"] is :" + DLFibonaci.Nb_Fibo(numberth));
+            double endTime1 = new Date().getTime();
+            System.out.printf("\nComputation Time: %.00f (ms)",endTime1 - startTime1);
+            System.out.println("\n================Nb_Fibo_R====");
             double startTime = new Date().getTime();
             int number = DLFibonaci.Nb_Fibo_R(numberth);
             double endTime = new Date().getTime();
-            System.out.printf("\n Number :"+number+"  Time in Nb_Fibo R: %.00f complexity"+1.68*numberth, endTime - startTime);
+            System.out.printf("\nNumber at:["+numberth+"] is:"+number+"\nComputation Time: %.00f(ms)", endTime - startTime);
+            System.out.print("\n");
             
-        
     }
 }
