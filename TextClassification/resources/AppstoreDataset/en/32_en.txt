@@ -1,0 +1,23 @@
+Waze is the world's largest community-based traffic and navigation app. Join drivers in your area who share real-time traffic & road info to save time, gas money, and improve daily commuting for all.
+
+Just by driving with Waze open, you're already contributing tons of real-time traffic information to your local community. You can also actively report accidents, police traps and other hazards you see on the road. Get road alerts along your route and find the cheapest gas prices around you shared by the community. Plus, you can add friends, send locations or keep others posted on your arrival time.
+
+- Live routing based on community driven, real-time traffic & road info
+- Community reported alerts including accidents, hazards, police traps, road closures, and more
+- Turn-by-turn voice guided navigation
+- Live maps, consistently edited and updated by Waze community map editors
+- Automatic rerouting as conditions change on the road 
+- Send your ETA & real-time drive to update those you’re meeting
+- Learns your frequent destinations, commuting hours, and preferred routes
+- Find the cheapest gas station on your route 
+- Add information on local places and businesses
+- Add Facebook friends and sync Contacts
+- See friends’ ETA when driving to the same destination
+- One tap navigation to Facebook & Calendar events
+- Earn points as you contribute road info and climb the ranks in your community 
+
+Waze is all about contributing to and benefiting from the common good, so hop on board and get involved! 
+
+Note: Continued use of GPS running in the background can dramatically decrease battery life. Waze will automatically shut down if you run it in the background and haven't driven for a while.
+
+Learn more about the Waze privacy policy, including what information is accessed and how it is used. With Waze, you have full control over your privacy settings. http://www.waze.com/legal/privacy/

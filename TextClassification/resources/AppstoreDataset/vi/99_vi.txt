@@ -1,0 +1,9 @@
+Bạn băn khoăn không biết sản phẩm của bạn có phải là chính hãng, có phải là hàng giả hàng nhái? Hãy download phần mềm này để có thể tìm kiếm thông tin về sản phẩm của bạn nhé.
+
+‼ Version 2.0 với nhiều cải tiến vượt bậc:
+- Nhận dạng được hầu hết các loại mã vạch của Việt Nam mà không phần mềm nào nước ngoài có thể đạt được.
+- Hiển thị thông tin nhà sản xuất, địa chỉ liên hệ, số điện thoại liên hệ, ngày cập nhật thông tin của sản phẩm.
+- Hiển thị giá, tên, hình của các sản phẩm thông dụng
+- Cải thiện tốc độ đọc mã
+- Tạo QRcode với nhiều loại mã khác nhau phục vụ cho các ứng dụng thực
+- Có chức năng báo cáo thông tin sản phẩm

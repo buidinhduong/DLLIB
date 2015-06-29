@@ -1,0 +1,23 @@
+Application complète de découverte de musique Jamendo®. 
+Naviguez, cherchez, écoutez et appréciez en toute légalité de la musique gratuite depuis Jamendo® sur votre iPhone, iPod et iPad. 
+
+*** Aucune limite ! ***
+
+√ Des millions de morceaux disponibles ! 
+√ Diffusion de musique en appuyant une seule fois !
+√ Cherchez un artiste, un DJ, un morceau, un remix ou une couverture
+
+Lecteur de musique :
+√ Un lecteur de médias complet
+√ Correcteur de fréquences avec capacités BassBooster
+√ Plus 20 préréglages d'équalisation réalistes
+√ Visualiseur audio elegant
+√ Écran de verrouillage des commandes de lecture 
+√ Défilement précis 
+√ Lecture dans l'arrière-plan 
+
+Gestionnaire:
+√ Trie par artiste, titre, date, durée
+√ Listes de lecture vidéo semblables à celles sur iPod 
+√ Couvertures des albums
+√ Historique des titres écoutés récemment

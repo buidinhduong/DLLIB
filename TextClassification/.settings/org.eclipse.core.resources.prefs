@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//resources/AppstoreDataset/vi/99_vi.txt=UTF-8
+encoding//resources/datasets/training.language.fr.stopwords.txt=UTF-8
+encoding//resources/datasets/training.language.fr.txt=UTF-8
+encoding//resources/datasets/training.language.vi.stopwords.txt=UTF-8
+encoding//resources/datasets/training.language.vi.txt=UTF-8
+encoding//src/ObjectModel/ModelEvaluator.java=UTF-8
+encoding//src/Test/NaiveBayesTest.java=UTF-8

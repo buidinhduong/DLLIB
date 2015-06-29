@@ -1,0 +1,10 @@
+Avec l’application officielle "RATP", optimisez vos déplacements en Île-de-France !
+- Personnalisez votre page d’accueil pour consulter en un clic vos horaires favoris,
+- Trouvez le meilleur itinéraire vers votre destination directement depuis la page d’accueil ou grâce à notre recherche d’itinéraires détaillée,
+- Recevez gratuitement des alertes personnalisées en cas de perturbation sur l’une de vos lignes habituelles,
+
+- Géolocalisez autour de vous les stations RER, Métro, Bus, Tramway et Transilien,
+- Consultez les horaires en temps réel des prochains passages des RER, Métro, Bus, Noctilien, Tramway et lignes aéroports,
+- Consultez les plans de lignes en mode paysage des RER RATP (A et B), Métro, Bus, Noctilien, Tramway RATP et lignes aéroports (Roissybus, Orlybus et Orlyval),
+
+- Découvrez les bons plans à proximité.

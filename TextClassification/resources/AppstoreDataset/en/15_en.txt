@@ -1,0 +1,33 @@
+Find My iPhone:
+
+If you misplace your iPhone, iPad, iPod touch, or Mac, the Find My iPhone app will let you use any iOS device to find it and protect your data. Simply install this free app, open it, and sign in with the Apple ID you use for iCloud. Find My iPhone will help you locate your missing device on a map, remotely lock it, play a sound, display a message, or erase all the data on it. 
+
+For missing iOS devices, Find My iPhone also includes Lost Mode. Lost Mode locks your device with a passcode and can display a custom message and contact phone number right on the Lock Screen. While in Lost Mode, your device can keep track of where it has been and report back so you can view its recent location history, right from the Find My iPhone app.
+
+Please note that Find My iPhone must be enabled in iCloud settings on your device before you can locate it with this app.
+
+
+FEATURES
+
+• Locate your iPhone, iPad, iPod touch, or Mac on a map 
+
+• Play a sound for two minutes at full volume (even if your device is set to silent) 
+
+• Remotely lock your device with a passcode 
+
+• Display a custom message on the Lock Screen
+
+• View recent location history of your device while in Lost Mode (iOS devices)
+
+• Get driving directions to device location
+
+• Remotely erase all content and settings on your device
+
+• Battery charge indicator
+
+Supported languages: English, Arabic, Australian English, Brazilian Portuguese, British English, Canadian French,  Catalan, Croatian, Czech, Danish, Dutch, Finnish, French, German, Greek, Hebrew, Hindi, Hong Kong Chinese, Hungarian, Indonesian, Italian, Japanese, Korean, Malay, Mexican Spanish, Norwegian, Polish, Portuguese, Romanian, Russian, Simplified Chinese, Slovak, Spanish, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Vietnamese
+
+
+REQUIREMENTS 
+• Find My iPhone 4.0 requires iOS 8 or later and iCloud. You can create a free Apple ID to use with iCloud on your iPhone, iPad, iPod touch or Mac. 
+• Wi-Fi or cellular internet connection is required. WiFi-only devices must be connected to the Internet via a registered Wi-Fi network to be located.

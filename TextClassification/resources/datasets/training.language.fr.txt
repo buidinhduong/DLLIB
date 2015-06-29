@@ -1,0 +1,1250 @@
+acte acción, acto
+action acción, acto 
+activité acción, actividad
+affaire caso
+arrêt parada
+arrière espalda
+ascension ascensión, ascenso 
+attaque asalto, ataque
+attitude actitud, disposición 
+augmentation incremento, aumento 
+campagne campaña, movimiento
+capacité capacidad, ingenio 
+caractère personalidad
+caractéristique característica, rasgo
+changement alteración, cambio 
+choix elección, selección 
+chose cosa
+chute caída
+combat combate, lucha
+condition condición, situación
+conduite comportamiento, conducta
+connecteur conexión
+contraire contrario
+copeau átomo, pedazo 
+coup golpe, impacto
+coup golpe
+coup de pied patada
+coupure corte, tajo
+croissance aumento, crecimiento 
+danger peligro, riesgo
+danger peligro, riesgo 
+déces desaparición, muerte 
+décoration adorno, decoración
+défense defensa, guardia
+demande deseo, anhelo
+destruction destrucción
+détail elemento
+devant delantera
+devoir deber
+dommage daño, perjuicio 
+effort afán, dedicación 
+emplacement lugar, puesto 
+endroit lugar, sitio
+ensemble conjunto, juego
+esprit cabeza, cerebro 
+état estado
+feuilleton serie
+frisson temblor, escalofríos
+genre clase, tipo
+goût gusto
+goutte gota
+internet internet
+lézarde grieta
+liste lista, repertorio
+majorité mayoría
+manière camino, forma 
+marche funcionamiento
+morceau pedazo, trozo
+morceau trozo
+noeud lazo, nudo
+nouveau venu adición
+occasion ocasión, oportunidad
+partie componente, parte
+partie parte, porcentaje
+pas paso, desplazamiento
+pause descanso, pausa 
+place asiento, localidad 
+pouvoir dominación, dominio 
+pratique práctica
+propriété propiedad
+puissance energía
+qualité calidad, cualidad
+quantité cantidad, cuantía
+rapport estudio, informe 
+repos descansar
+responsabilité responsabilidad, deber
+retour regreso, vuelta 
+ruse trampa
+salve estallido, ruptura
+secousse choque, sacudida
+sérénité serenidad, sosiego 
+silence silencio, discreción 
+situation situación
+sommet auge, cima 
+sujet asunto, cosa
+tâche proyecto, tarea 
+tentative intento, tentativa 
+toucher toque
+tout todo, totalidad
+traitement tratamiento, trato
+trou agujero, cavidad 
+type tipo
+usage empleo, uso 
+usure desgaste
+volonté voluntad
+aile ala
+bec pico
+bouche boca
+bras brazo
+cellule célula, cámara
+cerveau cerebro
+cheveux pelo
+cœur corazón
+cou cuello
+dent diente
+doigt dedo
+dos espalda, dorso
+esprit cabeza
+estomac estómago
+front frente
+gène gen
+genou rodilla
+gorge garganta
+haleine aliento, respiración 
+langue lengua
+lèvre labio
+main mano
+menton barba, barbilla
+muscle músculo
+nerf nervio
+nez nariz
+oeil ojo
+ongle uña
+oreille oído, oreja
+orteil dedo de pie
+os hueso
+patte pierna
+peau piel
+pied pie
+poil pelo, cabello
+poitrine tórax
+poitrine pecho
+pouce pulgar
+queue cola
+sang sangre
+tronc tronco
+visage cara, faz 
+abeille abeja
+chat gato
+cheval caballo
+chèvre cabra
+chien perro
+éléphant elefante
+fourmi hormiga
+insecte insecto
+lion león
+mouche mosca
+mouton oveja
+oiseau ave, pájaro
+ours oso
+poisson pez
+porc marrano
+serpent serpiente
+accusation cargo
+action acción, título
+adresse destreza
+affaire negocio
+aide asistencia, ayuda
+argent dinero, plata 
+arrangement acuerdo, pacto 
+assurance seguro
+attention atención
+autorité autoridad, dominación 
+avantage superioridad, ventaja
+besoin necesidad
+billet billete
+bureau oficina
+capital capital
+chèque talón, cheque
+comité comisión, comité 
+commerce comercio
+commettant cliente
+compte cuenta
+comptes factura, recibo 
+concurrence competencia, rivalidad
+conseil consejo
+conseil advertencia, consejo
+contrat contrato
+copie copia
+cours clase, curso
+difficulté dificultad, obstáculo 
+directeur director
+direction dirección
+droit derecho
+économie economía
+employé trabajador
+équipe equipo, personal
+expérience experiencia, destreza 
+firme casa, firma
+fonctionnaire funcionario
+formulaire formulario
+frais coste, costo
+groupe agrupación, colectivo 
+industrie industria
+intérêt interés
+législation ley, derecho
+magasin establecimiento, almacén 
+marché mercado
+marché pacto, trato
+marque marca
+marque marca, señal
+matériau materia
+métier ocupación
+milieu media
+milieu entorno, medio 
+monnaie cambio
+offre oferta, ganga 
+opération operación, accionamiento
+paiement pago
+paquet bulto, lío 
+permission despedida
+personnel personal
+perte pérdida
+plan plan, programa 
+prix coste, precio
+problème dificultad, problema
+produit producción, producto
+profit ganancia, utilidades
+propriétaire amo, dueña 
+propriété pertenencia, propiedad
+rayon apartado, sección
+réclame anuncio, cartel 
+récompense pago, recompensa
+rencontre encuentro, reunión
+reste restante, resto 
+revenu ingreso, ingresos
+secteur división, parte 
+service departamento
+service servicio
+show espectáculo, muestra
+société compañía
+soutien apoyo, ayuda
+succès éxito
+table tabla
+tarif tarifa, tipo 
+taxe carga, contribución 
+travail trabajo
+travail cometido, faena 
+vacances vacaciones, feriado
+valeur valor
+vente venta
+aérodrome aeropuerto, aeródromo
+appartement apartamento, piso 
+banque banco
+bâtiment edificio
+bibliothèque biblioteca
+capitale capital
+château castillo
+cinéma cine, biógrafo
+construction construcción, estructura
+école colegio, escuela
+église iglesia
+grande ville ciudad, metrópolis
+hôpital clínica, hospital
+hôtel hotel
+métro metro, metropolitano
+parc parque
+anneau anillo
+botte bota
+chapeau sombrero
+chaussettes calcetín
+chaussure zapato
+chemise camisa
+col cuello
+costume vestido, prenda 
+cravate corbata
+jupe falda, pollera
+manteau chaqueta
+pierre précieuse joya
+sac bolso
+tissu paño, tejido 
+valise maleta
+veston chaqueta
+blanc blanco, cándido
+bleu azul
+gris gris
+jaune amarillo
+marron marrón
+noir negro
+orange naranja
+rose rosa, rosado
+rouge rojizo, rojo
+vert verde
+violet morado, violeta
+annonce anuncio, proclamación
+appel grito, protesta 
+approbation aprobación, aceptación 
+argument argumento
+caractère carácter
+coup de fil llamada
+courrier correo
+critère criterio, estándar 
+décision decisión, determinación 
+déclaration afirmación, declaración
+demande instancia, petición 
+dictionnaire diccionario, léxico 
+discussion debate, discusión
+données datos
+doute duda, incertidumbre 
+écriture escritura
+entrevue entrevista
+épreuve experiencia
+erreur error, fallo 
+humour humorismo
+information información
+intérêt interés
+journal diario, periódico 
+langage lenguaje
+langage habla, lenguaje 
+langue lengua
+lettre carta, misiva 
+lettre carácter, letra
+livre ejemplar, libro 
+magazine revista
+mémoire memoria
+mensonge bola, historia 
+mot palabra, oferta
+nom nombre, apodo
+nombre número
+note notación, ángel
+objection protesta
+oeil apariencia, aspecto 
+opinion apreciación, opinión 
+orthographe ortografía
+page página, hoja
+pensée idea, pensamiento 
+phrase oración, frase
+prononciation pronunciación
+proposition proposición, propuesta 
+proposition proposición
+querelle discusión, disputa 
+question demanda, pregunta 
+raison razón, motivo
+réaction reacción
+relation relación
+réponse respuesta
+secret secreto
+sentiment sentimiento
+signe signo
+souvenir memoria
+sujet asunto, objeto 
+voix voz
+assiette plato
+boîte caja, cajita
+boîte bote, lata 
+bouteille botella
+enveloppe sobre
+panier cesto, aro 
+poche bolsa, bolso
+tasse taza
+tiroir cajón
+verre vaso, copa
+bonjour buenos días
+bonne chance buena suerte, suerte
+merci beaucoup muchas gracias
+merci beaucoup, merci bien muchas gracias
+non no
+oui sí
+salut hola
+bière cerveza
+boisson bebida
+café café
+eau agua
+lait leche
+lait fouetté batido
+thé té
+vin vino
+classe clase, curso 
+connaissance conocimiento, saber
+éducation educación
+études educación, enseñanza
+étudiant alumno, estudiante
+examen examen, test
+formation formación, preparación 
+formation educación, formación 
+maître profesor, maestro 
+note calificación, nota
+anniversaire cumpleaños
+copain amigo
+famille familia
+femme esposa
+femme mujer
+fille hija
+fille chica, joven 
+fils hijo
+frère hermano, colega
+garçon chaval, chico 
+grand-père abuelo
+homme hombre
+homme hombre, varón 
+mari esposo, hombre 
+mariage boda, boda nupcial 
+mariage matrimonio, unión
+mariage boda
+mère madre
+mort muerte
+naissance nacimiento
+parent madre
+père padre, papa 
+personne mortal
+petit enfant criatura
+relation relación
+soeur hermana
+vie existencia, vida
+voisin vecina, vecino 
+beurre mantequilla
+chocolat chocolate
+dîner almuerzo, comida
+douceur dulzura
+fromage queso
+fruit fruto
+gâteau pastel
+huile aceite
+nourriture alimento, comida
+oeuf huevo, óvulo
+pain pan
+petit déjeuner almuerzo, desayuno
+repas comida
+riz arroz
+salade ensalada
+sandwich bocadillo
+sauce salsa
+sel sal
+soupe sopa, caldo
+sucre azúcar
+viande carne
+abricot damasco
+ananas ananá
+banane plátano
+cerise cereza
+citron limón
+fraise fresa
+framboise frambuesa
+fruit à coque nuez
+mûre mora
+orange naranja
+pêche melocotón
+poire pera
+pomme manzana
+prune ciruela
+bureau mesa, escritorio
+chaise silla
+étagère estante
+évier fregadero, pila
+lit cama
+mobilier mueble, decoración
+placard armario
+place asiento, banco 
+rideau cortina
+table mesa
+tapis alfombra, tapete 
+altitude altitud, altura 
+carte mapa, plano 
+colline colina, monte
+courant corriente, actual
+direction camino, curso 
+espace espacio
+est este, oriente 
+étoile estrella, astro
+fleuve río
+île isla
+lac lago
+lune luna
+mer mar, océano
+nord norte
+ouest oeste
+plage playa
+plaine campaña, llanura
+région parte, región
+rive margen, orilla 
+soleil sol
+sud sur
+Terre globo, mundo 
+terre tierra
+adresse dirección, ubicación
+brique ladrillo
+chambre à coucher alcoba, dormitorio 
+cuisine cocina
+douche ducha
+étage piso, planta
+garage cochera
+hall entrada, recibidor 
+jardin jardín
+maison casa, hogar 
+maison casa
+marche escalón
+mur muro, pared 
+pièce cuarto, habitación
+plancher piso, suelo 
+porte puerta, hoja
+porte verja, reja 
+puits pozo
+salle de bain baño
+toilettes baño, letrina
+toit techo
+vitrine ventana
+allemand alemán
+anglais inglés
+chinois chino
+espagnol castellano, español
+français francés, francés
+hindi hindi
+italien italiano
+japonais japonés
+russe ruso
+acide ácido, agrio
+acier acero
+bois madera
+charbon carbón
+colle cola, goma 
+coton algodón
+cuir cuero, piel
+élément chimique elemento
+fer hierro
+glace hielo
+grain grano
+gras grasa
+laine lana
+liquide líquido, licor
+matière materia, sustancia
+métal metal
+pétrole petróleo
+poison tóxico
+poudre polvo
+poussière polvo
+produit chimique sustancia química
+sable arena
+savon jabón
+soie seda
+terre tierra
+verre vidrio
+addition suma
+aire área, superficie
+angle ángulo
+bord borde, canto 
+but función, propósito
+carré cuadrado
+carré cuadrado
+centre centro
+cercle círculo
+corps simple componente, elemento 
+côté lado
+courbe curva, arco
+degré grado
+différence diferencia, desigualdad 
+distance distancia
+échange sustitución
+extérieur exterior
+fonction función, oficio 
+ligne línea, linea
+limite límite, raya
+moitié mitad
+niveau grado, nivel
+ordre orden
+partage división, partición
+point punto, puntillo
+pourcentage porcentaje
+racine raíz
+règlement norma, regla 
+réseau red, malla
+résultat consecuencia, resultado 
+série conjunto
+somme monto, suma 
+surface superficie
+douleur dolor
+infirmière enfermera
+maladie afección, enfermedad
+médecin doctor, médico
+menstruation mes, regla
+opération intervención, operación
+patient paciente
+point punto
+rhume resfriado
+santé salud
+sous la garde de atención, cuidado
+toux tos
+air aire
+animal animal, bestia 
+arbre árbol
+bois bosque, floresta 
+branche rama
+champ campo, terreno
+ciel cielo
+éclair rayo
+évolution desarrollo, evolución
+ferme cortijo, estancia 
+feuille hoja
+flamme fuego, llama 
+fleur flor
+fumée vapor
+herbe hierba
+humidité humedad
+monde planeta
+nature naturaleza
+odeur olor, hedor
+plante flora, planta
+racine raíz
+sexe sexo
+sommeil sueñ
+anse asa, mango
+billet billete, pasaje
+cadeau regalo, presente
+cadre marco
+canne palo, vara 
+carte carta
+chaîne cadena
+couvercle pantalla
+drapeau bandera
+écrou tuerca
+épingle alfiler
+gourdin mazo, garrote 
+graine pepita, semilla
+grillage alambre
+lame hoja, cuchilla
+menu carta
+panneau tabla, tablero
+pierre piedra, roca
+plume pluma
+roue rueda
+rouleau rollo
+tarif postal porte
+tuyau tubería, conducto
+voile vela
+amas masa
+charge carga
+énergie energía
+équilibre equilibrio
+force fuerza
+lumière luz
+masse masa, volumen 
+mesurage medición
+miroir espejo
+mouvement movimiento
+poids peso
+pression presión
+processus proceso
+son sonido
+taille medida, tamaño
+temps tiempo
+unité unidad
+vapeur humo
+amant compañero, novio 
+baiser beso
+chérie amor, cariño 
+copine chica, compañera 
+invité huésped, invitado
+partie fiesta
+rendez-vous compromiso, cita
+sexe sexo
+sourire sonrisa
+surprise asombro, desconcierto 
+visite visita
+alternative alternativa, elección 
+biologie biología
+cause causa
+chimie química
+comparaison confrontación
+conséquence consecuencia, efecto 
+contrôle control, mando 
+découverte descubrimiento, hallazgo
+discipline ámbito, área 
+essence centro, corazón 
+événement evento, suceso 
+évidence evidencia
+fait evidencia, hecho
+investigation estudio, investigación
+méthode método
+patron modelo
+phase estadio, etapa 
+portée alcance, ámbito 
+problème problema
+procédure procedimiento, proceso 
+production producción, creación 
+programme programa
+projet proyecto
+question problema
+recherche investigación
+science ciencia
+société sociedad
+spécimen ejemplo
+système sistema
+technologie tecnología
+tendance tendencia
+théorie teoría
+utilisateur usuario
+armée ejército, tropa
+base base
+bruit ruido
+club asociación, club 
+compagnie comitiva
+concours campeonato, competición 
+culture civilización, cultura 
+domination autoridad, dominio
+élection elección
+établissement institución, instituto
+état estado
+existence existencia, vida 
+femme hembra
+foi fe, religión 
+gens gente
+gouvernement autoridad, gobierno 
+guerre guerra
+histoire historia
+individu individuo
+infraction crimen, delito
+mâle macho
+membre miembro
+nation nación
+nouvelles noticias
+ordre orden
+organisation organización
+paix paz
+passeport pasaporte
+pays estado, nación 
+peuple mundo, pueblo
+police guardia, policía
+politique política
+population población
+punition castigo
+religion iglesia
+république democracia, república
+roi monarca, rey
+testament testamento
+titre título
+tribunal juzgado, tribunal
+union unión
+volonté voluntad
+argent plata
+balle balón, pelota
+base-ball béisbol
+bicyclette bicicleta
+bond salto
+but gol
+championnat campeonato
+concurrent adversario, rival
+coupe copa
+destination destino, lugar
+distinction honor, laurel 
+football fútbol
+golf golf
+jeu juego
+joueur jugador
+lancer lanzamiento
+or oro
+partie partido, equipo
+record marca
+tennis tenis
+victoire triunfo
+âge edad
+an año
+août agosto
+après-midi tarde
+automne otoño
+avril abril
+commencement comienzo, inicio 
+date fecha
+décembre diciembre
+demain mañana
+dimanche domingo
+été verano
+février febrero
+fin cabo, final
+futur futuro, porvenir
+heure h, hora
+hiver invierno
+instant instante, momento
+janvier enero
+jeudi jueves
+journée día
+juillet julio
+juin junio
+lundi lunes
+mai mayo
+maintenant recientemente
+mardi martes
+matin mañana
+mercredi miércoles
+minuit medianoche
+minute minuto
+mois mes
+moment instante, minuto 
+novembre noviembre
+nuit noche
+octobre octubre
+passé pasado
+pause pausa, suspensión
+période período, ciclo
+présent actualidad, presente
+printemps primavera
+quelque temps instante, minuto 
+saison temporada
+samedi sábado
+seconde s, segundo
+semaine semana
+septembre septiembre
+siècle siglo
+soir anochecer, atardecer 
+vendredi viernes
+weekend fin de semana
+aiguille aguja
+allumette fósforo
+bouton botón, tecla
+ciseaux tijeras
+clef llave
+cloche campana
+clou clavo
+corde cuerda
+crochet gancho, garfio 
+fouet azote
+fusil pistola
+marteau macillo
+pompe bomba
+ressort muelle
+serrure cerradura
+tampon sello, cajetín 
+ail ajo
+carotte zanahoria
+chou repollo
+concombre pepino
+haricot alubia, judía
+oignon cebolla
+olive aceituna
+panais pastinaca sativa
+pomme de terre patata
+radis rábano
+tomate tomate
+beau bello, bonito 
+beau agradable, bonito 
+chaud acalorado
+de base básico, basilar
+difficile difícil, duro 
+droit derecho
+en bonne santé sano
+exact acertado, correcto
+faible débil
+fin agudo, afilado 
+fort fuerte
+froid frío, helado
+gauche izquierdo
+grand grande, vasto
+gros gran, grande 
+heureux contento, feliz 
+important importante
+incorrect incorrecto, erróneo
+léger ligero, ágil 
+lent lento
+lourd pesado
+mauvais malo
+meilleur mejor
+merveilleux bárbaro, brutal 
+mieux mejor
+mou blando, muelle
+neuf nuevo
+noir oscuro, sombrío 
+ouvert abierto
+petit insignificante, pequeño 
+proche cercano
+propre limpio, nítido 
+rapide rápido, veloz
+sage bueno
+sale sucio, asqueroso
+semblable parecido, semejante 
+un diferente, distinto
+vrai existente, real
+actuel vigente
+adjacent inmediato
+amer amargo
+ancien antiguo, anterior
+aucun ningún
+automatique automático
+autre otro
+barbare atroz, bárbaro 
+bas bajo
+bas abajo, debajo
+beaucoup mucho
+beaucoup muchos
+bizarre insólito
+bon marché barato
+carré cuadrado, cuadro
+cassé roto
+central central
+certain seguro, cierto
+chanceux afortunado
+chaque cada
+chaud cálido
+chimique químico
+clair brillante, vivo
+clairsemé claro, disperso
+clandestin oculto, secreto
+commun común, mutuo 
+complet completo
+conscient consciente
+courant común
+courant corriente
+court corto, breve
+dangereux peligroso
+de vulgarisation popular
+dégagé claro
+délicat delicado, frágil
+dernier último
+déterminé fijo
+deuxième segundo
+différent diferente
+disponible disponible
+dissemblable diferente, distinto
+distinct separado
+divers diverso, vario
+droit recto, derecho 
+économe económico
+économique económico
+égal igual
+égal nivelado
+électrique eléctrico
+élégant elegante
+ennuyeux gris, aburridor
+épais espeso
+établi determinado
+étranger extranjero, extraño 
+étroit estrecho
+excellent excelente, magnífico
+exceptionnel excepcional, extraordinario 
+facile fácil
+facultatif cualquier
+faux artificial, falso
+fermé cerrado
+fin delicado
+financier fiscal, financiero
+fort fuerte
+frais fresco, helado 
+fréquent habitual
+futur futuro
+général general
+gluant glutinoso
+gratuit gratuito
+gros gordo
+gros gordo
+haut alto
+il y a hace
+industriel industrial
+intéressant interesante
+international internacional
+l'un et l'autre ambos
+laid desagradable, horrible
+large amplio, ancho
+légal legal, oficial
+liquide líquido
+lisse liso, llano 
+local local
+loin distante, lejano 
+majeur principal
+même mismo
+métallique metálico
+militaire militar
+mince delgado
+minuscule diminuto
+moderne moderno
+mouillé húmedo
+national nacional
+naturel natural
+nécessaire necesario
+normal estándar
+normal común, corriente 
+opposé contrario
+originel original
+pair par
+parallèle paralelo
+particulier particular
+passé pasado
+pauvre miserable, pobre 
+personnel individual, particular 
+petit menudo, pequeño 
+peu pocos
+physique físico
+plat liso, llano 
+plein lleno
+plus más
+plus loin más
+plusieurs varios
+politique político
+possible posible, realizable
+précédent anterior
+premier delantero
+présent actual, presente 
+prêt listo
+principal primordial, principal 
+privé personal, particular
+probable posible, probable 
+probe justo, recto
+professionnel profesional
+propre propio
+public público
+récent reciente
+régulier regular
+responsable responsable
+rigide rígido, tieso
+rond redondo
+sans appel final, último
+sec seco
+sérieux serio
+serré apretado
+seul solo
+silencieux silencioso, callado
+simple elemental, simple
+social social
+solide consistente, firme 
+solide sólido
+soudain repentino
+sous bajo, inferior
+spécial especial, excepcional 
+spécifique específico
+sucré dulce, pastel
+suivant siguiente, próximo
+sur acerca de
+sûr seguro
+tard tardío, pausado 
+tôt temprano
+total absoluto, completo 
+totalité entero
+tout todo
+tout cada
+tranquille silencioso
+triste lamentable, penoso 
+usuel común, habitual 
+violent áspero
+vrai verdadero
+cent cien, ciento 
+cinq cinco
+cinquante cincuenta
+dix diez
+dix-huit dieciocho
+dix-neuf diecinueve
+huit ocho
+mille mil, millar
+mille mil, millar
+million millón
+neuf nueve
+onze once
+paire par, pareja
+quarante cuarenta
+quatorze catorce
+quatre cuatro
+quatre-vingt-dix noventa
+quatre-vingts ochenta
+quinze decimoquinto
+rien cero, nada
+seize dieciséis
+sept siete
+six seis
+soixante sesenta
+soixante-dix setenta
+treize trece
+trente treinta
+trois tres
+troisième tercero
+un uno, a
+vingt veinte
+ eso
+ce que
+ce aquel
+ces estos
+ces esas
+cette esta
+de qui cuyo
+elle ella
+ils ellos
+les los
+leur su
+lui él
+lui él
+me me
+mon mi
+notre nuestro
+nous nos
+nous nosotros
+quand cuando
+que quién
+quel cuál
+quel cuál
+qui quién
+se se
+se sí
+son su
+son su
+te te
+tes su
+tout todo
+tout le monde todos
+tu vos, vosotros 
+acheter adquirir, comprar
+aider ayudar, asistir
+aimer amar, querer
+aimer simpatizar, considerar 
+apprendre aprender
+attendre esperar
+attraper conseguir, obtener 
+avoir tener
+avoir besoin de necesitar, precisar
+baiser besar
+boire beber, tomar
+bondir saltar, brincar
+bouger desplazar, mover
+briser partir, quebrar 
+chanter cantar
+comprendre coger, comprender 
+couper cortar
+courir correr
+danser bailar, saltar
+débuter comenzar, empezar 
+dessiner dibujar, trazar 
+dire decir, manifestar
+donner dar
+écouter escuchar, sentir
+écrire escribir
+entendre oír
+espérer esperar
+exercer ejercer
+fermer cerrar, tapar 
+jouer jugar, tocar
+lire leer
+manger comer
+mentir mentir
+offrir ofrecer
+oublier olvidar, ignorar 
+ouvrir abrir
+parler decir, hablar 
+payer abonar, pagar
+perdre perder
+poser poner
+poser sentar
+pousser apretar, empujar
+prendre coger, tomar
+regarder contemplar, admirar 
+rencontrer encontrar
+rendre meter
+résider yacer
+rire reír
+savoir conocer, saber
+se rappeler recordar, avisar 
+se servir de emplear, usar 
+sentir palpar
+sourire sonreír
+suivre seguir, continuar 
+tirer disparar
+tirer arrastrar, estirar 
+tomber caer, derrumbarse 
+trouver encontrar, recuperar
+vendre vender
+venir llegar, venir
+voler volar
+abdiquer desistir
+accepter aceptar, querer 
+accord avec coincidir, consentir
+accuser acusar
+additionner sumar
+administrer manejar, tratar
+affecter afectar, conmover
+agir actuar, hacer 
+aimer disfrutar, gustar
+aller ir
+aller corresponder
+annoncer anunciar, proclamar
+appeler pedir, solicitar 
+appeler llamar
+apporter acarrear, llevar 
+apprécier clasificar
+appuyer sur apretar, presionar
+arrêter detener
+arriver ocurrir, pasar 
+arriver llegar, arribar
+arriver alcanzar, ganar
+arrondir redondear
+attaquer asaltar, atacar
+attendre aguardar, contar 
+atterrir aterrizar
+attraper embaucar
+augmenter aumentar, incrementar 
+bâtir construir, edificar 
+blesser herir, torturar
+charger cargar
+chauffer calentar
+choisir coger, escoger 
+cirer abrillantar
+classer clasificar, separar 
+commercer comerciar
+comparer comparar
+comprendre comprender, cubrir
+concevoir diseñar
+conduire conducir, manejar
+conduire conducir, llevar
+considérer considerar, ver
+contenir contener, incluir 
+contenir limitar
+continuer continuar, avanzar
+contrôler controlar
+copier copiar, recrear
+coudre coser
+coup de pied patada
+crier gritar, llamar
+croire considerar, creer 
+cuisiner preparar, cocer
+décider decidir, determinar
+découvrir descubrir
+décrire describir, explicar 
+demander preguntar, solicitar 
+dépasser superar
+désirer desear
+détecter descubrir, detectar 
+détester detestar, odiar 
+développer desarrollar
+développer procesar, tratar
+devenir convertirse
+discuter discutir
+dissimuler esconder, ocultar 
+diviser dividir, partir 
+douter dudar
+durer durar
+économiser ahorrar
+écraser aplastar
+écraser aplastar, machacar
+égaliser igualar
+élever criar, asistir
+embaumer oler
+empêcher estorbar, impedir
+empoisonner envenenar
+encourager animar, estimular
+endurer soportar, sufrir
+enlever quitar, sacar
+enregistrer grabar, registrar
+enseigner enseñar, instruir
+entrer entrar, penetrar
+envoyer echar, enviar 
+épouser casarse
+estimer calcular, echar 
+étudier estudiar
+éviter evitar, excusar 
+exister existir, haber 
+expliquer explicar, contar 
+fermer cerrar
+finir acabar, cesar 
+fonder constituir, instaurar 
+former enseñar
+formuler expresar, indicar
+fournir facilitar, proporcionar 
+gagner ganar, triunfar 
+garder conservar, mantener
+goût probar
+gouverner gobernar, regir
+honorer honrar, venerar 
+identifier identificar
+impliquer implicar, suponer

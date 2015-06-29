@@ -1,0 +1,19 @@
+► Ứng dụng LỊCH VIỆT - LỊCH VẠN NIÊN phổ biến nhất cho iOS! 
+
+► Những Tính Năng Nổi Bật: 
+• Lịch Ngày 
+- Xem lịch âm, lịch dương, lịch vạn niên 
+- Xem can, chi của ngày, tháng, năm 
+- Xem giờ hoàng đạo 
+- Xem tuổi xung, tiết khí, hướng xuất hành 
+- Xem thông tin về ngày Tam nương, nguyệt kỵ, tứ tuyệt... 
+- Hiển thị danh ngôn và thay đổi theo ngày 
+- Giao diện đẹp với nhiều hình nền vui nhộn 
+
+• Lịch Tháng 
+- Xem ngày âm, dương theo Lịch Tháng 
+- Xem giờ hoàng đạo 
+- Xem ngày hoàng đạo, hắc đạo trong tháng 
+
+• Đổi Ngày 
+- Đổi một ngày bất kỳ từ lịch dương sang lịch âm và ngược lại

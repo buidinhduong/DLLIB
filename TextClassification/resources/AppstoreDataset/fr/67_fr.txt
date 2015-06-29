@@ -1,0 +1,22 @@
+Téléchargez facilement des vidéos sur les sites Web le permettant tels que Ted.com, et regardez-les hors-ligne sur votre iPhone, iPod Touch et iPad !
+
+Téléchargement et lecture :
+- prise en charge de tous les sites Web principaux (mobile) ;
+- lecture sans connexion Internet des vidéos téléchargées ;
+- prise en charge des formats standard tels que mp4, mov, m4v, 3gp et mpeg ;
+- prise en charge du téléchargement au format m3u8 (flux vidéo).
+
+Téléchargement d'une vidéo en 3 étapes faciles :
+- recherche sur Internet ;
+- choix de n'importe quelle vidéo à télécharger ;
+- appui sur Télécharger.
+
+Consultation, recherche et classement de vidéos :
+- listes de lecture de vidéos ;
+- recherche rapide de vidéos ;
+- navigateur Web intégré et complet ;
+- marque-pages ;
+- déplacement, renommage et suppression de fichiers et de dossier ;
+- classement par nom, par taille, par date, par longueur et par type.
+
+Veuillez noter que le téléchargement depuis YouTube est interdit par ses conditions d'utilisation.

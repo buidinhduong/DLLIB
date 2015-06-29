@@ -1,0 +1,11 @@
+The Google Maps app for iPhone and iPad makes navigating your world faster and easier. Find the best spots in town and the information you need to get there.
+
+• Comprehensive, accurate maps in 220 countries and territories
+• Voice-guided GPS navigation for driving, biking, and walking
+• Transit directions and maps for over 15,000 cities and towns
+• Live traffic conditions, incident reports, and automatic rerouting to find the best route
+• Detailed information on more than 100 million places
+• Street View and indoor imagery for restaurants, museums, and more
+
+* Some features not available in all countries
+* Continued use of GPS running in the background can dramatically decrease battery life.

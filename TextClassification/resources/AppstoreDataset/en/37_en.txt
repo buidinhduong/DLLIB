@@ -1,0 +1,7 @@
+"It's a fun little way to pass the time, with solid pixel art to boot” – Touch Arcade 
+
+"Have a quick dunk!" – Pocket Gamer
+
+"Deviously addictive-looking high score game" – SlideToPlay
+
+Splish Splash Pong is a water pong game with obstacles. Start as a rubber duck, bounce back and forth to avoid killer whales, collect coins, unlock more rubber characters and get the highest score.

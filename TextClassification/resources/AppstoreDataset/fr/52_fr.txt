@@ -1,0 +1,33 @@
+Si vous ne savez pas où se trouve votre iPhone, iPad, iPod touch ou Mac, l’app Localiser mon iPhone vous permet d’utiliser un autre appareil fonctionnant avec iOS pour localiser l’appareil égaré et protéger vos données. Il vous suffit d’installer cette app gratuite, de l’ouvrir et de vous connecter avec l’identifiant Apple que vous utilisez pour iCloud. Localiser mon iPhone vous permet de localiser votre appareil sur une carte, de le verrouiller à distance, de le faire sonner, d’afficher un message, ou d’en effacer toutes les données. 
+
+Pour les appareils égarés fonctionnant avec iOS, l’app Localiser mon iPhone propose également le mode Perdu. Ce mode verrouille l’appareil égaré par un code et peut afficher un message personnalisé et un numéro de téléphone directement sur l’écran de verrouillage. En mode Perdu, votre appareil mémorise ses déplacements de sorte que vous pouvez afficher l’historique récent de ses positions à partir de l’app Localiser mon iPhone.
+
+
+Veuillez noter que l’app Localiser mon iPhone doit être activée dans les réglages iCloud de votre appareil pour qu’il puisse être localisé par cette app.
+
+
+FONCTIONS
+
+• Localisez votre iPhone, iPad, iPod touch ou Mac sur une carte 
+
+• Faites sonner l’appareil pendant deux minutes au volume maximum (même s’il est en mode silencieux) 
+
+• Verrouillez votre appareil à distance par un code 
+
+• Affichez un message personnalisé sur l’écran de verrouillage
+
+• Affichez l’historique récent de ses positions lorsqu’il est en mode Perdu (iOS)
+
+• Obtenez l’itinéraire menant à la position de l’appareil
+
+• Effacez à distance toutes les données et réglages de votre appareil
+
+• Indicateur de charge de batterie
+
+Langues prises en charge : anglais, allemand, anglais australien, anglais britannique, arabe, catalan, chinois de Hong-Kong, chinois simplifié, chinois traditionnel, coréen, croate, danois, espagnol, espagnol mexicain, finnois, français, français canadien, grec, hébreu, hindi, hongrois, indonésien, italien, japonais, malais, néerlandais, norvégien, polonais, portugais, portugais brésilien, roumain, russe, slovaque, suédois, thaïlandais, tchèque, turc, ukrainien, vietnamien
+
+
+CONFIGURATION REQUISE
+
+• Localiser mon iPhone 4.0 exige iOS 8 ou une version ultérieure et un compte iCloud. Vous pouvez créer un identifiant Apple gratuit pour pouvoir utiliser iCloud sur votre iPhone, iPad, iPod touch ou Mac. 
+• Connexion Internet par réseau Wi-Fi ou cellulaire requise. Pour être localisés, les appareils qui ne fonctionnent qu’avec Wi-FI doivent être connectés à Internet via un réseau Wi-Fi enregistré.

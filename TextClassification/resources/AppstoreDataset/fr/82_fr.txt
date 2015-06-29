@@ -1,0 +1,12 @@
+La meilleure application de musique libre, écouter des millions de chansons gratuitement.
+
+• Ecouter de la musique en arrière-plan
+• Ajouter de la musique des listes de lecture sans connexion
+• Rechercher dans les vidéos, chaînes et playlists
+• la qualité commutateur vidéo, 240p, 360p, 720p, 1080p
+• Accès compte YouTube
+
+iMusic est alimenté par YouTube.
+YouTube marque et le logo sont des marques déposées de Google, Inc .. Tous droits réservés.
+
+This app can only stream videos, doesn't support downloading/caching. Please note that downloading is not allowed by YouTube.

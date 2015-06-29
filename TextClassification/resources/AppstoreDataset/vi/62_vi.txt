@@ -1,0 +1,17 @@
+Từ điển TFLAT có phát âm, dùng OFFLINE, có chức năng dịch văn bản Anh Việt, Việt Anh.
+
+Hơn 400.000 từ Anh Việt, 150.000 từ Việt Anh, phát âm giọng Mỹ chuẩn, sử dụng OFFLINE (không cần có mạng Internet).
+
+Đặc biệt phần mềm cho phép bạn tra chéo bất kỳ từ tiếng Anh nào trong phần mềm chỉ bằng 1 cú click.
+
+Từ điển còn bao gồm:
+
+* Chức năng nhắc nhở học từ vựng cực hay.
+* Danh sách động từ bất quy tắc.
+* 600 từ TOEIC phổ biến nhất
+* 700 từ IELTS cần thiết nhất
+* TOEFL không thể thiếu
+* Kèm nhiều phần mềm học tiếng anh phong phú đa dạng
+
+Phát triển bởi TFLAT
+Mọi góp ý xin liên hệ contact.tflat@gmail.com

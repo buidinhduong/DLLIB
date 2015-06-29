@@ -1,0 +1,22 @@
+Flashcode by Mobiletag  est une application qui vous permet de lire des codes-barres 2D (QR code, Datamatrix) et les codes-barres 1D , présents sur les emballages des produits (EAN), de manière intelligente, afin que vous accédiez plus rapidement et en toute simplicité à différents types de contenus multimédia : vidéos, photos, musique, portail internet...   
+
+Flashcode by Mobiletag  transforme aussi votre mobile en détecteur de bons plans : lancez l’application, visez le code-barres du produit ou de la publicité, comparez immédiatement les meilleures offres et profitez de réductions, bons plans, coupons, jeux concours ainsi que de toutes les informations utiles pour bien acheter.   
+Trouvez qui est le moins cher sur les produits alimentaires ou non avec une fiche produit performante.
+
+Qu’est qu’un Flashcode ? 
+Un Flashcode est un code-barres à deux dimensions (code 2D) pouvant contenir : une adresse internet mobile permettant ainsi d’être dirigé instantanément vers le contenu désiré, les coordonnées d’une personne que vous enregistrez d’un simple clic, ou encore, un numéro de téléphone qui sera composé automatiquement ...
+
+Le service qui vous simplifie l'accès : Flashcode vous rend la vie plus facile. Plus besoin de retenir ni de saisir une adresse web ou encore d'écrire lettre après lettre l'adresse d'un contact. Un accès direct selon vos contenus: flashez le code et accédez, sans autre manipulation, au contenu que vous avez choisi...  
+
+Flashcode, c'est l'interaction au quotidien de votre mobile avec :  
+- La presse écrite : en flashant un code imprimé dans un magazine, vous accédez à des contenus vidéos, à des pages interactives en relation avec le sujet, ou à une bande annonce d'un film... 
+
+- L'abri bus : en flashant un code imprimé sur un abri bus, vous pourrez par exemple connaitre le temps d'attente du prochain bus ou télécharger le plan du quartier.   Flashcode est la seule application capable de lire les Flashcodes RATP par exemple.
+
+- La télévision : une nouvelle manière plus directe, plus simple de participer à une émission pour laquelle l'opinion du téléspectateur est sollicitée (imaginez vous en train de voter pour votre candidat préféré en flashant l'écran de votre télévision).
+
+- Les codes-barres produits (1D) : découvrez nos fiches produits complètes et détaillées, les meilleures offres du web et des magasins près de l’endroit ou vous vous trouvez. Vous avez trouvé votre bon plan ? Flashcode vous guide pas à pas jusqu’au site web ou point de vente le plus proche pour vous aider à consommer malin !   
+
+- Les iBeacons des magasins Lick, et bientôt de nombreuses autres boutiques
+
+Avec Flashcode by Mobiletag, la seule limite est votre imagination…

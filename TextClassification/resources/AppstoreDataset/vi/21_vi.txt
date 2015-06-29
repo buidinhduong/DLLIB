@@ -1,0 +1,17 @@
+iTivi là chương trình xem TV & nghe Radio trên iPhone, iPad và iPod Touch. Với tiêu chí đơn giản & hiệu quả chúng tôi mong muốn mang lại cho các quý vị một phần mềm chất lượng của người Việt. 
+
+► Tính năng chính: 
+- Xem những kênh TV và Radio phổ biến nhất Việt Nam 
+- Xem các Video theo yêu cầu ở nhiều thể loại khác nhau 
+- Hàng trăm video âm nhạc HOT của Việt Nam và quốc tế 
+- Hỗ trợ quản lý các kênh yêu thích 
+- Hỗ trợ ghi lại (record) trên phần lớn các kênh 
+- Danh sách kênh được cập nhật thường xuyên và tự động. 
+- Hẹn giờ tắt 
+
+► Hỗ trợ xem gần 100 kênh Radio phổ thông tại Việt Nam: 
+• Các chương trình giải trí hấp dẫn với nội dung da dạng 
+• Các kênh Radio: VOV1, VOV2, VOV3, VOV5, VOV Giao thông, VOH AM, FM-Đài phát thanh TPHCM, Vĩnh Long, Dem sang,... 
+• Các đài địa phương khác: Lạng Sơn, Phú Thọ, Đồng Nai, Thái Nguyên, Huế, Bà Rịa Vũng Tàu, Tiền Giang, Bình Thuận, Sóc Trăng,... 
+
+► Chương trình yêu cầu kết nối internet trực tiếp (không có tường lửa hoặc proxy).

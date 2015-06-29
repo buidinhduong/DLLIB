@@ -1,0 +1,15 @@
+Téléchargez l'application Gmail officielle pour votre iPhone ou votre iPad. 
+Cette nouvelle version de l'application vous offre le meilleur de Gmail : notifications en temps réel, accès multicompte et fonctionnalité de recherche dans la boîte de réception. 
+Avec l'application Gmail, vous pouvez :
+
+- Naviguer d'un compte à l'autre (dans la limite de 5 comptes) 
+- Être rapidement averti de l'arrivée de nouveaux messages, grâce aux options de centre de notification, de badge et de verrouillage d'écran
+- Faire une recherche rapide dans tous vos messages en bénéficiant désormais de l'affichage de suggestions à mesure de la saisie
+- Afficher les photos de profil dans la conversation
+- Lire vos messages au sein des fils de discussion
+- Bénéficier de la saisie semi-automatique du nom du destinataire depuis vos contacts Google ou le carnet d'adresses de votre téléphone
+- Répondre aux invitations Google Agenda depuis l'application
+- Lire les posts interactifs Google+ et y répondre depuis l'application
+- Organiser vos messages (archivage, ajout de libellés, activation du suivi, suppression et signalement des spams)
+- Envoyer et recevoir des pièces jointes
+- Ajouter un dessin à main levée pour personnaliser vos e-mails

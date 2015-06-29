@@ -1,0 +1,23 @@
+Waze est l'application de navigation et d'info trafic ayant l'une des plus grandes communautés mondiale. Rejoignez les conducteurs de votre région qui partagent en temps réel trafic et informations routières pour gagner du temps, économiser frais de carburant et améliorer les trajets de chacun.
+
+En conduisant tout simplement avec Waze démarré, vous contribuez déjà avec des tonnes d'informations de trafic en temps réel pour votre communauté locale. Vous pouvez également signaler les accidents, les dangers, la police et autres événements que vous voyez sur la route, et recevoir des alertes tout au long de votre déplacement. Trouvez la station essence la moins chère sur votre chemin avec les prix de carburants partagés par la communauté. Enfin, vous pouvez ajouter des amis pour les envoyer votre localisation ou partager votre heure d'arrivée.
+
+- Guidage basé sur les informations temps réel et informations routières de la communauté
+- Les signalement de la communauté incluent accidents, dangers, police, fermetures de route et plus encore
+- Guidage vocal complet 
+- Des cartes en direct, constamment éditées et mises à jour par la communauté d'éditeurs de Waze
+- Reroutage automatique lorsque les conditions changent sur la route 
+- Envoyez votre heure d'arrivée et parcours en temps réel à ceux que vous rencontrez
+- Apprentissage de vos déstinations fréquentes, heures de trajets et trajets préférés
+- Trouvez la station services la moins chère sur votre trajet. 
+- Ajoutez des informations sur les endroits et les entreprises locales
+- Ajoutez des amis Facebook et synchronisez vos contacts
+- Voyez l'ETA de vos amis quand vous allez au même endroit
+- Navigation en une tape vers les événements de Facebook & du Calendrier.
+- Gagnez des points en contribuant avec des informations de la route et montez dans le classement de votre communauté 
+
+* Waze permet de contribuer au «bien commun» et d'en bénéficier, alors montez à bord et impliquez-vous ! 
+
+Note : L'utilisation continue du GPS en arrière-plan peut réduire considérablement l'autonomie de la batterie. Waze s'éteint automatiquement s'il est en tâche de fond et que vous ne conduisez pas pendant un certain temps.
+
+Apprenez-en plus sur la politique de confidentialité de Waze, comment sont collectés les informations et leur usage. Avec Waze vous avez un contrôle total de vos paramètres de confidentialité. http://www.waze.com/legal/privacy/

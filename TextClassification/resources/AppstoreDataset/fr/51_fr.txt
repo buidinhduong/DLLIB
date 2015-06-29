@@ -1,0 +1,42 @@
+Runtastic est désormais disponible sur votre Apple Watch. Profitez de gérer votre application de course à pied préférée, directement sur votre poignet ! 
+
+L’application Runtastic enregistre vos activités physiques et sportives (distance, durée, vitesse, changement d’altitude, calories brûlées et plus encore) - telles que la course à pied, le jogging, le vélo et la marche - en utilisant la technologie GPS pour vous aider à construire des habitudes de vie saines et vous aider à atteindre vos objectifs d’entraînement ! 
+
+FONCTIONS DE L’APPLICATION (limitées dans la version lite)
+- Suivi de vos entraînements en direct avec GPS intégré & gestion de votre journal d’entraînement 
+- Configuration du tableau de bord : affichage des statistiques d’entraînement préférées
+- Coach vocal : feedbacks audio basés sur vos préférences personnelles
+- Défiez une course : rivalisez contre vous-même en défiant d’anciens résultats
+- Pause Auto : session automatiquement sur pause lorsque vous cessez de bouger
+- Parcours : créez ou trouvez des itinéraires sur Runtastic.com et synchronisez avec votre smartphone
+- Suivi en DIRECT & encouragement : partagez votre emplacement, recevez des messages et des encouragements
+- Objectifs d’entraînement : sélectionnez la zone de fréquence cardiaque, les objectifs de calories ou de rythme pour optimiser l’entraînement
+- Entraînement par intervalles, coaching et tableaux d’allures
+- Powersong : intègre un lecteur de musique & powersong pour améliorer l’entraînement 
+- Orbit Connect : voir les statistiques d’activité sur Runtastic Orbit, notre bracelet connecté 24h/24
+- Cartographie : carte détaillée en temps réel & historique (Google Maps) 
+- Graphiques : altitude, rythme, vitesse & fréquence cardiaque de votre jogging, course à pied ou marche
+- Tracés colorés : les couleurs indiquent les changements, tels que le rythme et l’altitude
+- Geotagging : prenez des photos pendant l'entraînement et visionnez les photos en ligne avec marquage sur la carte
+- Météo, température et lever / coucher du soleil pour assister votre programme d’entraînement
+- Détails post-activité : entrez votre humeur, les infos du terrain, et recevez des recommandations concernant l’hydratation
+- Intégration avec Apple Health
+- Intégrez les activités Runtastic au compte MyFitnessPal 
+- Saisie manuelle des entraînements : ajoutez tapis roulant, spinning, musculation etc. 
+- Indicateurs globaux et mensuels de la distance, le nombre de séances d'entraînement, la durée et les calories brûlées 
+- iCloud : paramètres synchronisés lors du passage d'application LITE à PRO
+- Partagez vos activités sur Facebook, Twitter ou email
+
+Runtastic disponible sur votre Apple Watch
+ 
+- Commencez une activité Runtastic directement à partir de votre poignet avec Apple Watch 
+- Regardez les détails de votre activité en direct et profitez d’un accès instantané à vos données sans devoir sortir votre iPhone de votre poche 
+- Gérez votre musique & votre Powersong personnel en un seul clic
+- Accédez aux statistiques de vos récentes activités & contrôlez vos progrès grâce à des statistiques mensuelles
+- Partagez votre succès sur Facebook et Twitter directement via votre Apple Watch
+
+Si vous choisissez d’obtenir une adhésion Premium, le paiement sera prélevé de votre compte iTunes lors de la confirmation de l’achat. Votre abonnement est de 6,99 € par mois ou de 49,99 € par an. (Le prix peut différer selon la région). Votre abonnement sera renouvelé automatiquement à moins qu’il ne soit annulé au moins 24 heures avant la fin de la période prédéterminée. Une annulation de l’abonnement actuel avant la fin de la période prédéterminée n’est pas autorisée.
+ 
+La désactivation d’un renouvellement automatique peut être effectuée dans les paramètres de votre compte iTunes après l’achat. Vous pouvez également gérer vos abonnements dans les paramètres de votre compte après achat.  
+
+Une utilisation continue du GPS en arrière-plan peut endommager considérablement le niveau de la batterie.

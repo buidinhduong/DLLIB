@@ -1,0 +1,33 @@
+Télécommandez votre Freebox directement depuis votre iPhone ou Apple Watch.
+
+Compatible Freebox Révolution (V6), Freebox Crystal, Freebox HD, Alicebox
+
+Fonctionnalités :
+---------------
+- regarder les chaines de TV Freebox dans FreeTéléc
+- commentez sur twitter le programme que vous regardez
+- afficher les programmes les plus regardés
+- utilisez le clavier virtuel de l'iPhone pour saisir du texte sur le Freebox Player
+- utilisez l'écran tactile pour remplacer la souris du Freebox Player
+- détection automatique des boitiers Freebox Player et Freebox HD
+- plus besoin de rentrer de code télécommande pour le Freebox Player
+- utilisez la télécommande virtuelle pour contrôler votre Freebox HD ou Freebox Player
+- consultez d'un seul coup d'oeil les programmes en cours sur les chaines TV Freebox
+- gérez votre liste de chaines favorites
+- compatible multi tv
+
+Mode d'emploi Freebox Player (V6) :
+------------------------------
+- vérifiez que vos boitiers sont à jour
+- connectez votre iPhone au réseau wifi de votre Freebox
+- au lancement choisissez le Freebox Player que vous voulez contrôler
+Pour utilisez la souris, passez dans l'onglet "souris", ensuite pour activer le claviez cliquez sur l’icône clavier.
+
+Mode d'emploi Freebox HD :
+-----------------------
+- vérifiez que vos boitiers sont à jour
+- connectez votre iPhone au réseau wifi de votre Freebox
+- au lancement de l'application sélectionnez le boitier HD que vous voulez contrôler dans la liste
+- au premier lancement vous devrez saisir le code télécommande de votre boitier HD
+
+Remarques, suggestions : http://iPhone.r0ro.fr/
